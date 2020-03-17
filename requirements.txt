@@ -2,18 +2,3 @@ pandas
 numpy
 matplotlib.pyplot
 scipy 
-
-
-from scipy import stats
-import datetime as dt
-import datetime
-from datetime import timedelta  
-import urllib.request  # importar archivos web
-
-# para tratar de poner espanol
-from datetime import date, datetime, time
-from babel.dates import format_date, format_datetime, format_time, format_timedelta, Locale
-import locale                                    # para tratar de poner espanol
-locale.setlocale(locale.LC_ALL,'es_ES.UTF-8')  
-
-from IPython.core.interactiveshell import InteractiveShell
