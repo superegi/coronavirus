@@ -1,205 +1,205 @@
 ID,Fecha,Region_Numero,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tipo_de_caso,lat_comuna,lon_comuna
-1,03-03-2020,9,Maule,Masculino,33,Hospital de Talca,Talca,-35.427058,-71.6461858,Confirmado,-35423,-71657
-2,03-03-2020,9,Maule,Femenino,33,Hospital de Talca,Talca,-35.427058,-71.6461858,Confirmado,-35423,-71657
-3,04-03-2020,7,Metropolitana,Femenino,56,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33378,-70562
-4,05-03-2020,7,Metropolitana,Femenino,40,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33435,-70616
-5,06-03-2020,7,Metropolitana,Masculino,58,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33378,-70562
-6,07-03-2020,7,Metropolitana,Masculino,17,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33378,-70562
-7,07-03-2020,14,Los Lagos,Femenino,20,Hospital de Puerto Montt,Puerto Montt,-41.4491766,-72.9572697,Confirmado,-41454,-72993
-8,08-03-2020,7,Metropolitana,Femenino,83,Clínica Las Condes,Las Condes,-33.3848002,-70.5302759,Confirmado,-33.4,-70503
-9,08-03-2020,7,Metropolitana,Masculino,14,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33378,-70562
-10,08-03-2020,9,Maule,Masculino,39,Hospital de Talca,Talca,-35.427058,-71.6461858,Confirmado,-35423,-71657
-11,09-03-2020,7,Metropolitana,Masculino,42,Clínica U. de Los Andes,Las Condes,-33.4055828,-70.5034723,Confirmado,-33.4,-70503
-12,09-03-2020,9,Maule,Femenino,2,Hospital de Talca,Talca,-35.427058,-71.6461858,Confirmado,-35423,-71657
-13,09-03-2020,11,Biobío,Masculino,38,Hospital de Los Ángeles,Los Ángeles,-37.4735237,-72.346625,Confirmado,-36944,-72351
-14,10-03-2020,7,Metropolitana,Masculino,40,Clínica U. de Los Andes,Las Condes,-33.4055828,-70.5034723,Confirmado,-33.4,-70503
-15,10-03-2020,7,Metropolitana,Femenino,31,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33435,-70616
-16,10-03-2020,7,Metropolitana,Femenino,32,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33378,-70562
-17,10-03-2020,9,Maule,Masculino,21,Hospital de Talca,Talca,-35.427058,-71.6461858,Confirmado,-35423,-71657
-18,11-03-2020,7,Metropolitana,Femenino,58,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33435,-70616
-19,11-03-2020,7,Metropolitana,Femenino,48,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33378,-70562
-20,11-03-2020,7,Metropolitana,Femenino,23,Hospital de Carabineros,Ñuñoa,-33.4498066,-70.608953,Confirmado,-33454,-70604
-21,11-03-2020,7,Metropolitana,Masculino,26,Red de Salud UC-Christus San Carlos de Apoquindo,Las Condes,-33.4003954,-70.5096496,Confirmado,-33.4,-70503
-22,11-03-2020,9,Maule,Femenino,24,Hospital de Talca,Talca,-35.427058,-71.6461858,Confirmado,-35423,-71657
-23,11-03-2020,9,Maule,Masculino,29,Hospital de Curicó,Curicó,-34.9899079,-71.2355018,Confirmado,-34976,-71224
-24,12-03-2020,7,Metropolitana,Femenino,46,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33378,-70562
-25,12-03-2020,7,Metropolitana,Masculino,67,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33378,-70562
-26,12-03-2020,7,Metropolitana,Femenino,31,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33378,-70562
-27,12-03-2020,7,Metropolitana,Femenino,46,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33378,-70562
-28,12-03-2020,7,Metropolitana,Masculino,23,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33378,-70562
-29,12-03-2020,7,Metropolitana,Femenino,34,Clínica Tabancura,Vitacura,-33.3823479,-70.5354786,Confirmado,-33378,-70562
-30,12-03-2020,7,Metropolitana,Femenino,29,Clínica Las Condes,Las Condes,-33.3848002,-70.5302759,Confirmado,-33.4,-70503
-31,12-03-2020,7,Metropolitana,Femenino,28,Clínica Las Condes,Las Condes,-33.3848002,-70.5302759,Confirmado,-33.4,-70503
-32,12-03-2020,7,Metropolitana,Femenino,21,Laboratorio Integramédica,Las Condes,-33.3909085,-70.5461553,Confirmado,-33.4,-70503
-33,12-03-2020,10,Ñuble,Masculino,29,Clínica de Chillán,Chillán,-36.6150947,-72.1075954,Confirmado,-36601,-72109
-34,13-03-2020,7,Metropolitana,Masculino,35,Clínica Red Salud Santiago,Estación Central,-33.4574432,-70.7016232,Confirmado,-33459,-70699
-35,13-03-2020,7,Metropolitana,Femenino,50,Clínica Tabancura,Vitacura,-33.3823479,-70.5354786,Confirmado,-33378,-70562
-36,13-03-2020,7,Metropolitana,Masculino,,Red Salud Vitacura,Vitacura,-33.3823479,-70.5354786,Confirmado,-33378,-70562
-37,13-03-2020,7,Metropolitana,Masculino,31,Clínica U. de Los Andes,Las Condes,-33.4055828,-70.5034723,Confirmado,-33.4,-70503
-38,13-03-2020,7,Metropolitana,Masculino,47,Clínica Indisa,Providencia,-33.4214099,-70.6184727,Confirmado,-33435,-70616
-39,13-03-2020,7,Metropolitana,Masculino,39,Red de Salud UC-Christus San Carlos de Apoquindo,Las Condes,-33.4003954,-70.5096496,Confirmado,-33.4,-70503
-40,13-03-2020,9,Maule,Femenino,38,Hospital de Talca,Talca,-35.427058,-71.6461858,Confirmado,-35423,-71657
-41,13-03-2020,10,Ñuble,Masculino,16,Hospital de Chillán,Chillán,-36.6088176,-72.0921494,Confirmado,-36601,-72109
-42,13-03-2020,11,Biobío,Masculino,32,Clínica Universitaria,Concepción,-36.8004715,-73.0719198,Confirmado,-36815,-73029
-43,13-03-2020,11,Biobío,Masculino,34,Hospital G. Grant Benavente,Concepción,-36.8244454,-73.038594,Confirmado,-36815,-73029
-44,14-03-2020,3,Antofagasta,Femenino,58,Hospital Carlos Cisternas Calama,Calama,-22.4452001,-68.9181939,Confirmado,-22474,-68924
-45,14-03-2020,3,Antofagasta,Masculino,63,Hospital Carlos Cisternas Calama,Calama,-22.4452001,-68.9181939,Confirmado,-22474,-68924
-46,14-03-2020,4,Atacama,Masculino,50,Hospital de Copiapó,Copiapó,-27.3728556,-70.3219595,Confirmado,-27375,-70329
-47,14-03-2020,7,Metropolitana,Femenino,37,Laboratorio Integramédica,Las Condes,-33.3909085,-70.5461553,Confirmado,-33.4,-70503
-48,14-03-2020,7,Metropolitana,Masculino,28,Pontificia Universidad Católica,Santiago,-33.4423071,-70.6405828,Confirmado,-33437,-70657
-49,14-03-2020,7,Metropolitana,Masculino,29,Red de Salud UC-Christus San Carlos de Apoquindo,Las Condes,-33.4003954,-70.5096496,Confirmado,-33.4,-70503
-50,14-03-2020,7,Metropolitana,Masculino,28,Clínica U. de Los Andes,Las Condes,-33.4055828,-70.5034723,Confirmado,-33.4,-70503
-51,14-03-2020,7,Metropolitana,Masculino,53,Clínica Indisa,Providencia,-33.4214099,-70.6184727,Confirmado,-33435,-70616
-52,14-03-2020,7,Metropolitana,Masculino,38,Laboratorio Integramédica,Las Condes,-33.3909085,-70.5461553,Confirmado,-33.4,-70503
-53,14-03-2020,7,Metropolitana,Femenino,55,Laboratorio Bionet,Las Condes,-33.4039136,-70.5799187,Confirmado,-33.4,-70503
-54,14-03-2020,7,Metropolitana,Femenino,51,Laboratorio Integramédica,Las Condes,-33.3909085,-70.5461553,Confirmado,-33.4,-70503
-55,14-03-2020,7,Metropolitana,Femenino,23,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33435,-70616
-56,14-03-2020,7,Metropolitana,Masculino,36,Clínica Las Condes,Las Condes,-33.3848002,-70.5302759,Confirmado,-33.4,-70503
-57,14-03-2020,7,Metropolitana,Femenino,58,Clínica Las Condes,Las Condes,-33.3848002,-70.5302759,Confirmado,-33.4,-70503
-58,14-03-2020,9,Maule,Masculino,53,Hospital de Talca,Talca,-35.427058,-71.6461858,Confirmado,-35423,-71657
-59,14-03-2020,10,Ñuble,Masculino,23,Hospital de Chillán,Chillán,-36.6088176,-72.0921494,Confirmado,-36601,-72109
-60,14-03-2020,10,Ñuble,Masculino,23,Clínica de Chillán,Chillán,-36.6150947,-72.1075954,Confirmado,-36601,-72109
-61,14-03-2020,15,Aysén,Masculino,83,Hospital de Aysén,Coyhaique,-45.568608,-72.0735278,Confirmado,-45564,-72065
-62,15-03-2020,7,Metropolitana,Masculino,42,Laboratorio Bionet,Las Condes,-33.4039136,-70.5799187,Confirmado,-33.4,-70503
-63,15-03-2020,7,Metropolitana,Femenino,49,Hospital del Trabajador,Providencia,-33.4435918,-70.6325056,Confirmado,-33435,-70616
-64,15-03-2020,7,Metropolitana,Masculino,29,Clínica U. de Los Andes,Las Condes,-33.4055828,-70.5034723,Confirmado,-33.4,-70503
-65,15-03-2020,7,Metropolitana,Masculino,61,Red de Salud UC-Christus San Carlos de Apoquindo,Las Condes,-33.4003954,-70.5096496,Confirmado,-33.4,-70503
-66,15-03-2020,7,Metropolitana,Femenino,15,Red de Salud UC-Christus San Carlos de Apoquindo,Las Condes,-33.4003954,-70.5096496,Confirmado,-33.4,-70503
-67,15-03-2020,7,Metropolitana,Masculino,,Megasalud S.A.,Vitacura,-33.3827612,-70.5351482,Confirmado,-33378,-70562
-68,15-03-2020,7,Metropolitana,Masculino,42,Mutual de Seguridad,Estación Central,-33.4565408,-70.7007898,Confirmado,-33459,-70699
-69,15-03-2020,7,Metropolitana,Femenino,48,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33378,-70562
-70,15-03-2020,7,Metropolitana,Masculino,45,Red de Salud UC-Christus San Carlos de Apoquindo,Las Condes,-33.4003954,-70.5096496,Confirmado,-33.4,-70503
-71,15-03-2020,7,Metropolitana,Masculino,29,Clínica Vespucio,La Florida,-33.51905,-70.5970545,Confirmado,-33525,-70538
-72,15-03-2020,7,Metropolitana,Masculino,24,Red de Salud UC-Christus San Carlos de Apoquindo,Las Condes,-33.4003954,-70.5096496,Confirmado,-33.4,-70503
-73,15-03-2020,7,Metropolitana,Masculino,45,Red de Salud UC-Christus San Carlos de Apoquindo,Las Condes,-33.4003954,-70.5096496,Confirmado,-33.4,-70503
-74,15-03-2020,7,Metropolitana,Masculino,70,Clínica U. de Los Andes,Las Condes,-33.4055828,-70.5034723,Confirmado,-33.4,-70503
-75,15-03-2020,7,Metropolitana,Femenino,58,Clínica Las Condes,Las Condes,-33.3848002,-70.5302759,Confirmado,-33.4,-70503
-76,16-03-2020,6,Valparaíso,Masculino,34,Clínica Cuidad del Mar,Viña del Mar,-33.0097887,-71.5495776,Confirmado,-33025,-71515
-77,16-03-2020,7,Metropolitana,Masculino,43,Hospital San juan de Dios,Santiago,-33.4430753,-70.6797152,Confirmado,-33437,-70657
-78,16-03-2020,7,Metropolitana,Femenino,45,Hospital San juan de Dios,Santiago,-33.4430753,-70.6797152,Confirmado,-33437,-70657
-79,16-03-2020,7,Metropolitana,Femenino,38,Hospital del Trabajador,Providencia,-33.4435918,-70.6325056,Confirmado,-33435,-70616
-80,16-03-2020,7,Metropolitana,Femenino,53,Hospital del Profesor,Estación Central,-33.457618,-70.7027078,Confirmado,-33459,-70699
-81,16-03-2020,7,Metropolitana,Femenino,38,Bioxell Laboratorio Clinico Ltda.,Las Condes,-33.4254855,-70.5504904,Confirmado,-33.4,-70503
-82,16-03-2020,7,Metropolitana,Femenino,32,Megasalud S.A.,Vitacura,-33.3827612,-70.5351482,Confirmado,-33378,-70562
-83,16-03-2020,7,Metropolitana,Femenino,39,Clínica Las Condes,Las Condes,-33.3848002,-70.5302759,Confirmado,-33.4,-70503
-84,16-03-2020,7,Metropolitana,Masculino,35,Mutual de Seguridad,Estación Central,-33.4565408,-70.7007898,Confirmado,-33459,-70699
-85,16-03-2020,7,Metropolitana,Femenino,32,Clinica UC San Carlos de Apoquindo,Las Condes,-33.4003954,-70.5096496,Confirmado,-33.4,-70503
-86,16-03-2020,7,Metropolitana,Masculino,31,Clinica UC San Carlos de Apoquindo,Las Condes,-33.4003954,-70.5096496,Confirmado,-33.4,-70503
-87,16-03-2020,7,Metropolitana,Masculino,46,Clinica UC San Carlos de Apoquindo,Las Condes,-33.4003954,-70.5096496,Confirmado,-33.4,-70503
-88,16-03-2020,7,Metropolitana,Femenino,35,Clinica UC San Carlos de Apoquindo,Las Condes,-33.4003954,-70.5096496,Confirmado,-33.4,-70503
-89,16-03-2020,7,Metropolitana,Femenino,63,Integramédica,Santiago,-33.4396268,-70.6528618,Confirmado,-33437,-70657
-90,16-03-2020,7,Metropolitana,Femenino,62,Integramédica,Santiago,-33.4396268,-70.6528618,Confirmado,-33437,-70657
-91,16-03-2020,7,Metropolitana,Femenino,62,Integramédica,Santiago,-33.4396268,-70.6528618,Confirmado,-33437,-70657
-92,16-03-2020,7,Metropolitana,Masculino,52,Laboratorio Bionet,Las Condes,-33.4039136,-70.5799187,Confirmado,-33.4,-70503
-93,16-03-2020,7,Metropolitana,Femenino,34,Laboratorio Bionet,Las Condes,-33.4039136,-70.5799187,Confirmado,-33.4,-70503
-94,16-03-2020,7,Metropolitana,Femenino,33,Clinica Dávila,Recoleta,-33.4275246,-70.6468095,Confirmado,-33406,-70.64
-95,16-03-2020,7,Metropolitana,Masculino,42,Clinica Dávila,Recoleta,-33.4275246,-70.6468095,Confirmado,-33406,-70.64
-96,16-03-2020,7,Metropolitana,Femenino,29,Clinica Dávila,Recoleta,-33.4275246,-70.6468095,Confirmado,-33406,-70.64
-97,16-03-2020,7,Metropolitana,Masculino,28,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33378,-70562
-98,16-03-2020,7,Metropolitana,Femenino,27,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33378,-70562
-99,16-03-2020,7,Metropolitana,Masculino,40,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33378,-70562
-100,16-03-2020,7,Metropolitana,Femenino,24,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33378,-70562
-101,16-03-2020,7,Metropolitana,Femenino,49,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33378,-70562
-102,16-03-2020,7,Metropolitana,Femenino,,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33378,-70562
-103,16-03-2020,7,Metropolitana,Masculino,33,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33378,-70562
-104,16-03-2020,7,Metropolitana,Femenino,29,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33378,-70562
-105,16-03-2020,7,Metropolitana,Masculino,59,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33378,-70562
-106,16-03-2020,7,Metropolitana,Masculino,13,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33378,-70562
-107,16-03-2020,7,Metropolitana,Masculino,33,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33378,-70562
-108,16-03-2020,7,Metropolitana,Masculino,33,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33378,-70562
-109,16-03-2020,7,Metropolitana,Masculino,45,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33378,-70562
-110,16-03-2020,7,Metropolitana,Masculino,41,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33378,-70562
-111,16-03-2020,7,Metropolitana,Femenino,29,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33378,-70562
-112,16-03-2020,7,Metropolitana,Masculino,37,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33378,-70562
-113,16-03-2020,7,Metropolitana,Femenino,40,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33378,-70562
-114,16-03-2020,7,Metropolitana,Masculino,58,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33378,-70562
-115,16-03-2020,7,Metropolitana,Femenino,31,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33378,-70562
-116,16-03-2020,7,Metropolitana,Masculino,48,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33378,-70562
-117,16-03-2020,7,Metropolitana,Masculino,41,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33378,-70562
-118,16-03-2020,7,Metropolitana,Femenino,45,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33378,-70562
-119,16-03-2020,7,Metropolitana,Femenino,33,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33378,-70562
-120,16-03-2020,7,Metropolitana,Femenino,54,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33378,-70562
-121,16-03-2020,7,Metropolitana,Femenino,40,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33378,-70562
-122,16-03-2020,7,Metropolitana,Femenino,27,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33435,-70616
-123,16-03-2020,7,Metropolitana,Femenino,23,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33435,-70616
-124,16-03-2020,7,Metropolitana,Femenino,39,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33435,-70616
-125,16-03-2020,7,Metropolitana,Femenino,41,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33435,-70616
-126,16-03-2020,7,Metropolitana,Masculino,43,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33435,-70616
-127,16-03-2020,7,Metropolitana,Femenino,49,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33435,-70616
-128,16-03-2020,7,Metropolitana,Femenino,30,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33435,-70616
-129,16-03-2020,7,Metropolitana,Femenino,35,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33435,-70616
-130,16-03-2020,7,Metropolitana,Femenino,46,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33435,-70616
-131,16-03-2020,7,Metropolitana,Femenino,31,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33435,-70616
-132,16-03-2020,7,Metropolitana,Masculino,40,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33435,-70616
-133,16-03-2020,7,Metropolitana,Femenino,44,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33435,-70616
-134,16-03-2020,7,Metropolitana,Femenino,42,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33435,-70616
-135,16-03-2020,7,Metropolitana,Femenino,43,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33435,-70616
-136,16-03-2020,7,Metropolitana,Femenino,39,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33435,-70616
-137,16-03-2020,7,Metropolitana,Femenino,26,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33435,-70616
-138,16-03-2020,7,Metropolitana,Masculino,46,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33435,-70616
-139,16-03-2020,7,Metropolitana,Femenino,41,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33435,-70616
-140,16-03-2020,7,Metropolitana,Masculino,51,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33435,-70616
-141,16-03-2020,7,Metropolitana,Femenino,31,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33435,-70616
-142,16-03-2020,7,Metropolitana,Femenino,1,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33435,-70616
-143,16-03-2020,7,Metropolitana,Femenino,5,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33435,-70616
-144,16-03-2020,7,Metropolitana,Masculino,45,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33435,-70616
-145,16-03-2020,7,Metropolitana,Femenino,29,Clínica Las Condes,Las Condes,-33.3848002,-70.5302759,Confirmado,-33.4,-70503
-146,16-03-2020,10,Ñuble,Masculino,38,Clínica de Chillán,Chillán,-36.6150947,-72.1075954,Confirmado,-36601,-72109
-147,16-03-2020,10,Ñuble,Femenino,26,Clínica de Chillán,Chillán,-36.6150947,-72.1075954,Confirmado,-36601,-72109
-148,16-03-2020,10,Ñuble,Femenino,42,Clínica de Chillán,Chillán,-36.6150947,-72.1075954,Confirmado,-36601,-72109
-149,16-03-2020,10,Ñuble,Femenino,38,Hospital de Chillán,Chillán,-36.6088176,-72.0921494,Confirmado,-36601,-72109
-150,16-03-2020,10,Ñuble,Masculino,32,Clínica de Chillán,Chillán,-36.6150947,-72.1075954,Confirmado,-36601,-72109
-151,16-03-2020,10,Ñuble,Masculino,31,Hospital de Chillán,Chillán,-36.6088176,-72.0921494,Confirmado,-36601,-72109
-152,16-03-2020,10,Ñuble,Masculino,24,Hospital de Chillán,Chillán,-36.6088176,-72.0921494,Confirmado,-36601,-72109
-153,16-03-2020,10,Ñuble,Masculino,39,Clínica de Chillán,Chillán,-36.6150947,-72.1075954,Confirmado,-36601,-72109
-154,16-03-2020,11,Biobío,Femenino,47,Clinica Biobío,Talcahuano,-36.789227,-73.063481,Confirmado,-36736,-73105
-155,16-03-2020,12,Araucanía,Femenino,1,Hospital Hernán Henríquez Aravena,Temuco,-38.7370008,-72.599664,Confirmado,-38727,-72599
-156,16-03-2020,13,Los Ríos,Femenino,20,Clinica Alemana Valdivia,Valdivia,-39.818554,-73.2395179,Confirmado,-39.8,-73233
-157,17-03-2020,7,Metropolitana,Femenino,61,Mutual de Seguridad,Estación Central,-33.4565408,-70.7007898,Confirmado,-33459,-70699
-158,17-03-2020,7,Metropolitana,Masculino,33,Mutual de Seguridad,Estación Central,-33.4565408,-70.7007898,Confirmado,-33459,-70699
-159,17-03-2020,7,Metropolitana,Femenino,48,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33378,-70562
-160,17-03-2020,7,Metropolitana,Masculino,31,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33378,-70562
-161,17-03-2020,7,Metropolitana,Masculino,32,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33378,-70562
-162,17-03-2020,7,Metropolitana,Femenino,56,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33378,-70562
-163,17-03-2020,7,Metropolitana,Masculino,56,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33378,-70562
-164,17-03-2020,7,Metropolitana,Femenino,75,Hospital La Florida,La Florida,-33.5140438,-70.5999034,Confirmado,-33525,-70538
-165,17-03-2020,7,Metropolitana,Femenino,47,Hospital del Salvador,Providencia,-33.436952,-70.624884,Confirmado,-33435,-70616
-166,17-03-2020,7,Metropolitana,Masculino,36,Laboratorio Bionet,Las Condes,-33.4039136,-70.5799187,Confirmado,-33.4,-70503
-167,17-03-2020,7,Metropolitana,Masculino,45,Clínica Las Condes,Las Condes,-33.3848002,-70.5302759,Confirmado,-33.4,-70503
-168,17-03-2020,7,Metropolitana,Femenino,38,Clínica Las Condes,Las Condes,-33.3848002,-70.5302759,Confirmado,-33.4,-70503
-169,17-03-2020,7,Metropolitana,Femenino,41,Clínica Las Condes,Las Condes,-33.3848002,-70.5302759,Confirmado,-33.4,-70503
-170,17-03-2020,7,Metropolitana,Masculino,29,Clínica Las Condes,Las Condes,-33.3848002,-70.5302759,Confirmado,-33.4,-70503
-171,17-03-2020,7,Metropolitana,Masculino,57,Clinica Dávila,Recoleta,-33.4275246,-70.6468095,Confirmado,-33406,-70.64
-172,17-03-2020,7,Metropolitana,Femenino,43,Hospital del Trabajador,Providencia,-33.4435918,-70.6325056,Confirmado,-33435,-70616
-173,17-03-2020,7,Metropolitana,Femenino,44,Clínica U. de Los Andes,Las Condes,-33.4055828,-70.5034723,Confirmado,-33.4,-70503
-174,17-03-2020,7,Metropolitana,Femenino,50,Hospital Lucio Córdova,San Miguel,-33.4856474,-70.6453608,Confirmado,-33486,-70649
-175,17-03-2020,7,Metropolitana,Femenino,22,Hospital San juan de Dios,Santiago,-33.4430753,-70.6797152,Confirmado,-33437,-70657
-176,17-03-2020,7,Metropolitana,Masculino,39,Hospital San juan de Dios,Santiago,-33.4430753,-70.6797152,Confirmado,-33437,-70657
-177,17-03-2020,7,Metropolitana,Masculino,43,Clinica San Carlos de Apoquindo,Las Condes,-33.4003954,-70.5096496,Confirmado,-33.4,-70503
-178,17-03-2020,7,Metropolitana,Masculino,35,Clínica Vespucio,La Florida,-33.51905,-70.5970545,Confirmado,-33525,-70538
-179,17-03-2020,7,Metropolitana,Femenino,16,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33378,-70562
-180,17-03-2020,7,Metropolitana,Femenino,50,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33378,-70562
-181,17-03-2020,7,Metropolitana,Masculino,56,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33378,-70562
-182,17-03-2020,7,Metropolitana,Masculino,49,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33378,-70562
-183,17-03-2020,7,Metropolitana,Masculino,28,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33378,-70562
-184,17-03-2020,7,Metropolitana,Femenino,34,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33378,-70562
-185,17-03-2020,7,Metropolitana,Masculino,73,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33378,-70562
-186,17-03-2020,10,Ñuble,Femenino,33,Hospital de Chillán,Chillán,-36.6088176,-72.0921494,Confirmado,-36601,-72109
-187,17-03-2020,10,Ñuble,Femenino,29,Hospital de Chillán,Chillán,-36.6088176,-72.0921494,Confirmado,-36601,-72109
-188,17-03-2020,10,Ñuble,Masculino,43,Hospital de Chillán,Chillán,-36.6088176,-72.0921494,Confirmado,-36601,-72109
-189,17-03-2020,10,Ñuble,Femenino,27,Hospital de Chillán,Chillán,-36.6088176,-72.0921494,Confirmado,-36601,-72109
-190,17-03-2020,10,Ñuble,Femenino,37,Clínica de Chillán,Chillán,-36.6150947,-72.1075954,Confirmado,-36601,-72109
-191,17-03-2020,10,Ñuble,Masculino,40,Hospital de Chillán,Chillán,-36.6088176,-72.0921494,Confirmado,-36601,-72109
-192,17-03-2020,10,Ñuble,Femenino,27,Hospital de Chillán,Chillán,-36.6088176,-72.0921494,Confirmado,-36601,-72109
-193,17-03-2020,10,Ñuble,Masculino,36,Clínica de Chillán,Chillán,-36.6150947,-72.1075954,Confirmado,-36601,-72109
-194,17-03-2020,10,Ñuble,Femenino,30,Hospital de Chillán,Chillán,-36.6088176,-72.0921494,Confirmado,-36601,-72109
-195,17-03-2020,10,Ñuble,Femenino,26,Hospital de Chillán,Chillán,-36.6088176,-72.0921494,Confirmado,-36601,-72109
-196,17-03-2020,10,Ñuble,Masculino,29,Hospital de Chillán,Chillán,-36.6088176,-72.0921494,Confirmado,-36601,-72109
-197,17-03-2020,10,Ñuble,Masculino,32,Hospital de Chillán,Chillán,-36.6088176,-72.0921494,Confirmado,-36601,-72109
-198,17-03-2020,10,Ñuble,Masculino,48,Hospital de Chillán,Chillán,-36.6088176,-72.0921494,Confirmado,-36601,-72109
-199,17-03-2020,10,Ñuble,Femenino,31,Clínica de Chillán,Chillán,-36.6150947,-72.1075954,Confirmado,-36601,-72109
-200,17-03-2020,16,Magallanes,Masculino,70,Clínica Magallanes,Punta Arenas,-53.1372633,-70.8866272,Confirmado,-53148,-70907
-201,17-03-2020,16,Magallanes,Masculino,23,Hospital de Punta Arenas,Punta Arenas,-53.1224203,-70.8966561,Confirmado,-53148,-70907
+1,03-03-2020,9,Maule,Masculino,33,Hospital de Talca,Talca,-35.427058,-71.6461858,Confirmado,-35.423,-71.657
+2,03-03-2020,9,Maule,Femenino,33,Hospital de Talca,Talca,-35.427058,-71.6461858,Confirmado,-35.423,-71.657
+3,04-03-2020,7,Metropolitana,Femenino,56,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33.378,-70.562
+4,05-03-2020,7,Metropolitana,Femenino,40,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33.435,-70.616
+5,06-03-2020,7,Metropolitana,Masculino,58,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33.378,-70.562
+6,07-03-2020,7,Metropolitana,Masculino,17,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33.378,-70.562
+7,07-03-2020,14,Los Lagos,Femenino,20,Hospital de Puerto Montt,Puerto Montt,-41.4491766,-72.9572697,Confirmado,-41.454,-72.993
+8,08-03-2020,7,Metropolitana,Femenino,83,Clínica Las Condes,Las Condes,-33.3848002,-70.5302759,Confirmado,-33.4,-70.503
+9,08-03-2020,7,Metropolitana,Masculino,14,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33.378,-70.562
+10,08-03-2020,9,Maule,Masculino,39,Hospital de Talca,Talca,-35.427058,-71.6461858,Confirmado,-35.423,-71.657
+11,09-03-2020,7,Metropolitana,Masculino,42,Clínica U. de Los Andes,Las Condes,-33.4055828,-70.5034723,Confirmado,-33.4,-70.503
+12,09-03-2020,9,Maule,Femenino,2,Hospital de Talca,Talca,-35.427058,-71.6461858,Confirmado,-35.423,-71.657
+13,09-03-2020,11,Biobío,Masculino,38,Hospital de Los Ángeles,Los Ángeles,-37.4735237,-72.346625,Confirmado,-36.944,-72.351
+14,10-03-2020,7,Metropolitana,Masculino,40,Clínica U. de Los Andes,Las Condes,-33.4055828,-70.5034723,Confirmado,-33.4,-70.503
+15,10-03-2020,7,Metropolitana,Femenino,31,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33.435,-70.616
+16,10-03-2020,7,Metropolitana,Femenino,32,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33.378,-70.562
+17,10-03-2020,9,Maule,Masculino,21,Hospital de Talca,Talca,-35.427058,-71.6461858,Confirmado,-35.423,-71.657
+18,11-03-2020,7,Metropolitana,Femenino,58,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33.435,-70.616
+19,11-03-2020,7,Metropolitana,Femenino,48,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33.378,-70.562
+20,11-03-2020,7,Metropolitana,Femenino,23,Hospital de Carabineros,Ñuñoa,-33.4498066,-70.608953,Confirmado,-33.454,-70.604
+21,11-03-2020,7,Metropolitana,Masculino,26,Red de Salud UC-Christus San Carlos de Apoquindo,Las Condes,-33.4003954,-70.5096496,Confirmado,-33.4,-70.503
+22,11-03-2020,9,Maule,Femenino,24,Hospital de Talca,Talca,-35.427058,-71.6461858,Confirmado,-35.423,-71.657
+23,11-03-2020,9,Maule,Masculino,29,Hospital de Curicó,Curicó,-34.9899079,-71.2355018,Confirmado,-34.976,-71.224
+24,12-03-2020,7,Metropolitana,Femenino,46,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33.378,-70.562
+25,12-03-2020,7,Metropolitana,Masculino,67,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33.378,-70.562
+26,12-03-2020,7,Metropolitana,Femenino,31,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33.378,-70.562
+27,12-03-2020,7,Metropolitana,Femenino,46,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33.378,-70.562
+28,12-03-2020,7,Metropolitana,Masculino,23,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33.378,-70.562
+29,12-03-2020,7,Metropolitana,Femenino,34,Clínica Tabancura,Vitacura,-33.3823479,-70.5354786,Confirmado,-33.378,-70.562
+30,12-03-2020,7,Metropolitana,Femenino,29,Clínica Las Condes,Las Condes,-33.3848002,-70.5302759,Confirmado,-33.4,-70.503
+31,12-03-2020,7,Metropolitana,Femenino,28,Clínica Las Condes,Las Condes,-33.3848002,-70.5302759,Confirmado,-33.4,-70.503
+32,12-03-2020,7,Metropolitana,Femenino,21,Laboratorio Integramédica,Las Condes,-33.3909085,-70.5461553,Confirmado,-33.4,-70.503
+33,12-03-2020,10,Ñuble,Masculino,29,Clínica de Chillán,Chillán,-36.6150947,-72.1075954,Confirmado,-36.601,-72.109
+34,13-03-2020,7,Metropolitana,Masculino,35,Clínica Red Salud Santiago,Estación Central,-33.4574432,-70.7016232,Confirmado,-33.459,-70.699
+35,13-03-2020,7,Metropolitana,Femenino,50,Clínica Tabancura,Vitacura,-33.3823479,-70.5354786,Confirmado,-33.378,-70.562
+36,13-03-2020,7,Metropolitana,Masculino,,Red Salud Vitacura,Vitacura,-33.3823479,-70.5354786,Confirmado,-33.378,-70.562
+37,13-03-2020,7,Metropolitana,Masculino,31,Clínica U. de Los Andes,Las Condes,-33.4055828,-70.5034723,Confirmado,-33.4,-70.503
+38,13-03-2020,7,Metropolitana,Masculino,47,Clínica Indisa,Providencia,-33.4214099,-70.6184727,Confirmado,-33.435,-70.616
+39,13-03-2020,7,Metropolitana,Masculino,39,Red de Salud UC-Christus San Carlos de Apoquindo,Las Condes,-33.4003954,-70.5096496,Confirmado,-33.4,-70.503
+40,13-03-2020,9,Maule,Femenino,38,Hospital de Talca,Talca,-35.427058,-71.6461858,Confirmado,-35.423,-71.657
+41,13-03-2020,10,Ñuble,Masculino,16,Hospital de Chillán,Chillán,-36.6088176,-72.0921494,Confirmado,-36.601,-72.109
+42,13-03-2020,11,Biobío,Masculino,32,Clínica Universitaria,Concepción,-36.8004715,-73.0719198,Confirmado,-36.815,-73.029
+43,13-03-2020,11,Biobío,Masculino,34,Hospital G. Grant Benavente,Concepción,-36.8244454,-73.038594,Confirmado,-36.815,-73.029
+44,14-03-2020,3,Antofagasta,Femenino,58,Hospital Carlos Cisternas Calama,Calama,-22.4452001,-68.9181939,Confirmado,-22.474,-68.924
+45,14-03-2020,3,Antofagasta,Masculino,63,Hospital Carlos Cisternas Calama,Calama,-22.4452001,-68.9181939,Confirmado,-22.474,-68.924
+46,14-03-2020,4,Atacama,Masculino,50,Hospital de Copiapó,Copiapó,-27.3728556,-70.3219595,Confirmado,-27.375,-70.329
+47,14-03-2020,7,Metropolitana,Femenino,37,Laboratorio Integramédica,Las Condes,-33.3909085,-70.5461553,Confirmado,-33.4,-70.503
+48,14-03-2020,7,Metropolitana,Masculino,28,Pontificia Universidad Católica,Santiago,-33.4423071,-70.6405828,Confirmado,-33.437,-70.657
+49,14-03-2020,7,Metropolitana,Masculino,29,Red de Salud UC-Christus San Carlos de Apoquindo,Las Condes,-33.4003954,-70.5096496,Confirmado,-33.4,-70.503
+50,14-03-2020,7,Metropolitana,Masculino,28,Clínica U. de Los Andes,Las Condes,-33.4055828,-70.5034723,Confirmado,-33.4,-70.503
+51,14-03-2020,7,Metropolitana,Masculino,53,Clínica Indisa,Providencia,-33.4214099,-70.6184727,Confirmado,-33.435,-70.616
+52,14-03-2020,7,Metropolitana,Masculino,38,Laboratorio Integramédica,Las Condes,-33.3909085,-70.5461553,Confirmado,-33.4,-70.503
+53,14-03-2020,7,Metropolitana,Femenino,55,Laboratorio Bionet,Las Condes,-33.4039136,-70.5799187,Confirmado,-33.4,-70.503
+54,14-03-2020,7,Metropolitana,Femenino,51,Laboratorio Integramédica,Las Condes,-33.3909085,-70.5461553,Confirmado,-33.4,-70.503
+55,14-03-2020,7,Metropolitana,Femenino,23,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33.435,-70.616
+56,14-03-2020,7,Metropolitana,Masculino,36,Clínica Las Condes,Las Condes,-33.3848002,-70.5302759,Confirmado,-33.4,-70.503
+57,14-03-2020,7,Metropolitana,Femenino,58,Clínica Las Condes,Las Condes,-33.3848002,-70.5302759,Confirmado,-33.4,-70.503
+58,14-03-2020,9,Maule,Masculino,53,Hospital de Talca,Talca,-35.427058,-71.6461858,Confirmado,-35.423,-71.657
+59,14-03-2020,10,Ñuble,Masculino,23,Hospital de Chillán,Chillán,-36.6088176,-72.0921494,Confirmado,-36.601,-72.109
+60,14-03-2020,10,Ñuble,Masculino,23,Clínica de Chillán,Chillán,-36.6150947,-72.1075954,Confirmado,-36.601,-72.109
+61,14-03-2020,15,Aysén,Masculino,83,Hospital de Aysén,Coyhaique,-45.568608,-72.0735278,Confirmado,-45.564,-72.065
+62,15-03-2020,7,Metropolitana,Masculino,42,Laboratorio Bionet,Las Condes,-33.4039136,-70.5799187,Confirmado,-33.4,-70.503
+63,15-03-2020,7,Metropolitana,Femenino,49,Hospital del Trabajador,Providencia,-33.4435918,-70.6325056,Confirmado,-33.435,-70.616
+64,15-03-2020,7,Metropolitana,Masculino,29,Clínica U. de Los Andes,Las Condes,-33.4055828,-70.5034723,Confirmado,-33.4,-70.503
+65,15-03-2020,7,Metropolitana,Masculino,61,Red de Salud UC-Christus San Carlos de Apoquindo,Las Condes,-33.4003954,-70.5096496,Confirmado,-33.4,-70.503
+66,15-03-2020,7,Metropolitana,Femenino,15,Red de Salud UC-Christus San Carlos de Apoquindo,Las Condes,-33.4003954,-70.5096496,Confirmado,-33.4,-70.503
+67,15-03-2020,7,Metropolitana,Masculino,,Megasalud S.A.,Vitacura,-33.3827612,-70.5351482,Confirmado,-33.378,-70.562
+68,15-03-2020,7,Metropolitana,Masculino,42,Mutual de Seguridad,Estación Central,-33.4565408,-70.7007898,Confirmado,-33.459,-70.699
+69,15-03-2020,7,Metropolitana,Femenino,48,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33.378,-70.562
+70,15-03-2020,7,Metropolitana,Masculino,45,Red de Salud UC-Christus San Carlos de Apoquindo,Las Condes,-33.4003954,-70.5096496,Confirmado,-33.4,-70.503
+71,15-03-2020,7,Metropolitana,Masculino,29,Clínica Vespucio,La Florida,-33.51905,-70.5970545,Confirmado,-33.525,-70.538
+72,15-03-2020,7,Metropolitana,Masculino,24,Red de Salud UC-Christus San Carlos de Apoquindo,Las Condes,-33.4003954,-70.5096496,Confirmado,-33.4,-70.503
+73,15-03-2020,7,Metropolitana,Masculino,45,Red de Salud UC-Christus San Carlos de Apoquindo,Las Condes,-33.4003954,-70.5096496,Confirmado,-33.4,-70.503
+74,15-03-2020,7,Metropolitana,Masculino,70,Clínica U. de Los Andes,Las Condes,-33.4055828,-70.5034723,Confirmado,-33.4,-70.503
+75,15-03-2020,7,Metropolitana,Femenino,58,Clínica Las Condes,Las Condes,-33.3848002,-70.5302759,Confirmado,-33.4,-70.503
+76,16-03-2020,6,Valparaíso,Masculino,34,Clínica Cuidad del Mar,Viña del Mar,-33.0097887,-71.5495776,Confirmado,-33.025,-71.515
+77,16-03-2020,7,Metropolitana,Masculino,43,Hospital San juan de Dios,Santiago,-33.4430753,-70.6797152,Confirmado,-33.437,-70.657
+78,16-03-2020,7,Metropolitana,Femenino,45,Hospital San juan de Dios,Santiago,-33.4430753,-70.6797152,Confirmado,-33.437,-70.657
+79,16-03-2020,7,Metropolitana,Femenino,38,Hospital del Trabajador,Providencia,-33.4435918,-70.6325056,Confirmado,-33.435,-70.616
+80,16-03-2020,7,Metropolitana,Femenino,53,Hospital del Profesor,Estación Central,-33.457618,-70.7027078,Confirmado,-33.459,-70.699
+81,16-03-2020,7,Metropolitana,Femenino,38,Bioxell Laboratorio Clinico Ltda.,Las Condes,-33.4254855,-70.5504904,Confirmado,-33.4,-70.503
+82,16-03-2020,7,Metropolitana,Femenino,32,Megasalud S.A.,Vitacura,-33.3827612,-70.5351482,Confirmado,-33.378,-70.562
+83,16-03-2020,7,Metropolitana,Femenino,39,Clínica Las Condes,Las Condes,-33.3848002,-70.5302759,Confirmado,-33.4,-70.503
+84,16-03-2020,7,Metropolitana,Masculino,35,Mutual de Seguridad,Estación Central,-33.4565408,-70.7007898,Confirmado,-33.459,-70.699
+85,16-03-2020,7,Metropolitana,Femenino,32,Clinica UC San Carlos de Apoquindo,Las Condes,-33.4003954,-70.5096496,Confirmado,-33.4,-70.503
+86,16-03-2020,7,Metropolitana,Masculino,31,Clinica UC San Carlos de Apoquindo,Las Condes,-33.4003954,-70.5096496,Confirmado,-33.4,-70.503
+87,16-03-2020,7,Metropolitana,Masculino,46,Clinica UC San Carlos de Apoquindo,Las Condes,-33.4003954,-70.5096496,Confirmado,-33.4,-70.503
+88,16-03-2020,7,Metropolitana,Femenino,35,Clinica UC San Carlos de Apoquindo,Las Condes,-33.4003954,-70.5096496,Confirmado,-33.4,-70.503
+89,16-03-2020,7,Metropolitana,Femenino,63,Integramédica,Santiago,-33.4396268,-70.6528618,Confirmado,-33.437,-70.657
+90,16-03-2020,7,Metropolitana,Femenino,62,Integramédica,Santiago,-33.4396268,-70.6528618,Confirmado,-33.437,-70.657
+91,16-03-2020,7,Metropolitana,Femenino,62,Integramédica,Santiago,-33.4396268,-70.6528618,Confirmado,-33.437,-70.657
+92,16-03-2020,7,Metropolitana,Masculino,52,Laboratorio Bionet,Las Condes,-33.4039136,-70.5799187,Confirmado,-33.4,-70.503
+93,16-03-2020,7,Metropolitana,Femenino,34,Laboratorio Bionet,Las Condes,-33.4039136,-70.5799187,Confirmado,-33.4,-70.503
+94,16-03-2020,7,Metropolitana,Femenino,33,Clinica Dávila,Recoleta,-33.4275246,-70.6468095,Confirmado,-33.406,-70.64
+95,16-03-2020,7,Metropolitana,Masculino,42,Clinica Dávila,Recoleta,-33.4275246,-70.6468095,Confirmado,-33.406,-70.64
+96,16-03-2020,7,Metropolitana,Femenino,29,Clinica Dávila,Recoleta,-33.4275246,-70.6468095,Confirmado,-33.406,-70.64
+97,16-03-2020,7,Metropolitana,Masculino,28,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33.378,-70.562
+98,16-03-2020,7,Metropolitana,Femenino,27,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33.378,-70.562
+99,16-03-2020,7,Metropolitana,Masculino,40,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33.378,-70.562
+100,16-03-2020,7,Metropolitana,Femenino,24,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33.378,-70.562
+101,16-03-2020,7,Metropolitana,Femenino,49,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33.378,-70.562
+102,16-03-2020,7,Metropolitana,Femenino,,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33.378,-70.562
+103,16-03-2020,7,Metropolitana,Masculino,33,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33.378,-70.562
+104,16-03-2020,7,Metropolitana,Femenino,29,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33.378,-70.562
+105,16-03-2020,7,Metropolitana,Masculino,59,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33.378,-70.562
+106,16-03-2020,7,Metropolitana,Masculino,13,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33.378,-70.562
+107,16-03-2020,7,Metropolitana,Masculino,33,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33.378,-70.562
+108,16-03-2020,7,Metropolitana,Masculino,33,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33.378,-70.562
+109,16-03-2020,7,Metropolitana,Masculino,45,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33.378,-70.562
+110,16-03-2020,7,Metropolitana,Masculino,41,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33.378,-70.562
+111,16-03-2020,7,Metropolitana,Femenino,29,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33.378,-70.562
+112,16-03-2020,7,Metropolitana,Masculino,37,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33.378,-70.562
+113,16-03-2020,7,Metropolitana,Femenino,40,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33.378,-70.562
+114,16-03-2020,7,Metropolitana,Masculino,58,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33.378,-70.562
+115,16-03-2020,7,Metropolitana,Femenino,31,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33.378,-70.562
+116,16-03-2020,7,Metropolitana,Masculino,48,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33.378,-70.562
+117,16-03-2020,7,Metropolitana,Masculino,41,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33.378,-70.562
+118,16-03-2020,7,Metropolitana,Femenino,45,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33.378,-70.562
+119,16-03-2020,7,Metropolitana,Femenino,33,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33.378,-70.562
+120,16-03-2020,7,Metropolitana,Femenino,54,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33.378,-70.562
+121,16-03-2020,7,Metropolitana,Femenino,40,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33.378,-70.562
+122,16-03-2020,7,Metropolitana,Femenino,27,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33.435,-70.616
+123,16-03-2020,7,Metropolitana,Femenino,23,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33.435,-70.616
+124,16-03-2020,7,Metropolitana,Femenino,39,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33.435,-70.616
+125,16-03-2020,7,Metropolitana,Femenino,41,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33.435,-70.616
+126,16-03-2020,7,Metropolitana,Masculino,43,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33.435,-70.616
+127,16-03-2020,7,Metropolitana,Femenino,49,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33.435,-70.616
+128,16-03-2020,7,Metropolitana,Femenino,30,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33.435,-70.616
+129,16-03-2020,7,Metropolitana,Femenino,35,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33.435,-70.616
+130,16-03-2020,7,Metropolitana,Femenino,46,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33.435,-70.616
+131,16-03-2020,7,Metropolitana,Femenino,31,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33.435,-70.616
+132,16-03-2020,7,Metropolitana,Masculino,40,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33.435,-70.616
+133,16-03-2020,7,Metropolitana,Femenino,44,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33.435,-70.616
+134,16-03-2020,7,Metropolitana,Femenino,42,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33.435,-70.616
+135,16-03-2020,7,Metropolitana,Femenino,43,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33.435,-70.616
+136,16-03-2020,7,Metropolitana,Femenino,39,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33.435,-70.616
+137,16-03-2020,7,Metropolitana,Femenino,26,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33.435,-70.616
+138,16-03-2020,7,Metropolitana,Masculino,46,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33.435,-70.616
+139,16-03-2020,7,Metropolitana,Femenino,41,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33.435,-70.616
+140,16-03-2020,7,Metropolitana,Masculino,51,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33.435,-70.616
+141,16-03-2020,7,Metropolitana,Femenino,31,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33.435,-70.616
+142,16-03-2020,7,Metropolitana,Femenino,1,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33.435,-70.616
+143,16-03-2020,7,Metropolitana,Femenino,5,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33.435,-70.616
+144,16-03-2020,7,Metropolitana,Masculino,45,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33.435,-70.616
+145,16-03-2020,7,Metropolitana,Femenino,29,Clínica Las Condes,Las Condes,-33.3848002,-70.5302759,Confirmado,-33.4,-70.503
+146,16-03-2020,10,Ñuble,Masculino,38,Clínica de Chillán,Chillán,-36.6150947,-72.1075954,Confirmado,-36.601,-72.109
+147,16-03-2020,10,Ñuble,Femenino,26,Clínica de Chillán,Chillán,-36.6150947,-72.1075954,Confirmado,-36.601,-72.109
+148,16-03-2020,10,Ñuble,Femenino,42,Clínica de Chillán,Chillán,-36.6150947,-72.1075954,Confirmado,-36.601,-72.109
+149,16-03-2020,10,Ñuble,Femenino,38,Hospital de Chillán,Chillán,-36.6088176,-72.0921494,Confirmado,-36.601,-72.109
+150,16-03-2020,10,Ñuble,Masculino,32,Clínica de Chillán,Chillán,-36.6150947,-72.1075954,Confirmado,-36.601,-72.109
+151,16-03-2020,10,Ñuble,Masculino,31,Hospital de Chillán,Chillán,-36.6088176,-72.0921494,Confirmado,-36.601,-72.109
+152,16-03-2020,10,Ñuble,Masculino,24,Hospital de Chillán,Chillán,-36.6088176,-72.0921494,Confirmado,-36.601,-72.109
+153,16-03-2020,10,Ñuble,Masculino,39,Clínica de Chillán,Chillán,-36.6150947,-72.1075954,Confirmado,-36.601,-72.109
+154,16-03-2020,11,Biobío,Femenino,47,Clinica Biobío,Talcahuano,-36.789227,-73.063481,Confirmado,-36.736,-73.105
+155,16-03-2020,12,Araucanía,Femenino,1,Hospital Hernán Henríquez Aravena,Temuco,-38.7370008,-72.599664,Confirmado,-38.727,-72.599
+156,16-03-2020,13,Los Ríos,Femenino,20,Clinica Alemana Valdivia,Valdivia,-39.818554,-73.2395179,Confirmado,-39.8,-73.233
+157,17-03-2020,7,Metropolitana,Femenino,61,Mutual de Seguridad,Estación Central,-33.4565408,-70.7007898,Confirmado,-33.459,-70.699
+158,17-03-2020,7,Metropolitana,Masculino,33,Mutual de Seguridad,Estación Central,-33.4565408,-70.7007898,Confirmado,-33.459,-70.699
+159,17-03-2020,7,Metropolitana,Femenino,48,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33.378,-70.562
+160,17-03-2020,7,Metropolitana,Masculino,31,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33.378,-70.562
+161,17-03-2020,7,Metropolitana,Masculino,32,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33.378,-70.562
+162,17-03-2020,7,Metropolitana,Femenino,56,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33.378,-70.562
+163,17-03-2020,7,Metropolitana,Masculino,56,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33.378,-70.562
+164,17-03-2020,7,Metropolitana,Femenino,75,Hospital La Florida,La Florida,-33.5140438,-70.5999034,Confirmado,-33.525,-70.538
+165,17-03-2020,7,Metropolitana,Femenino,47,Hospital del Salvador,Providencia,-33.436952,-70.624884,Confirmado,-33.435,-70.616
+166,17-03-2020,7,Metropolitana,Masculino,36,Laboratorio Bionet,Las Condes,-33.4039136,-70.5799187,Confirmado,-33.4,-70.503
+167,17-03-2020,7,Metropolitana,Masculino,45,Clínica Las Condes,Las Condes,-33.3848002,-70.5302759,Confirmado,-33.4,-70.503
+168,17-03-2020,7,Metropolitana,Femenino,38,Clínica Las Condes,Las Condes,-33.3848002,-70.5302759,Confirmado,-33.4,-70.503
+169,17-03-2020,7,Metropolitana,Femenino,41,Clínica Las Condes,Las Condes,-33.3848002,-70.5302759,Confirmado,-33.4,-70.503
+170,17-03-2020,7,Metropolitana,Masculino,29,Clínica Las Condes,Las Condes,-33.3848002,-70.5302759,Confirmado,-33.4,-70.503
+171,17-03-2020,7,Metropolitana,Masculino,57,Clinica Dávila,Recoleta,-33.4275246,-70.6468095,Confirmado,-33.406,-70.64
+172,17-03-2020,7,Metropolitana,Femenino,43,Hospital del Trabajador,Providencia,-33.4435918,-70.6325056,Confirmado,-33.435,-70.616
+173,17-03-2020,7,Metropolitana,Femenino,44,Clínica U. de Los Andes,Las Condes,-33.4055828,-70.5034723,Confirmado,-33.4,-70.503
+174,17-03-2020,7,Metropolitana,Femenino,50,Hospital Lucio Córdova,San Miguel,-33.4856474,-70.6453608,Confirmado,-33.486,-70.649
+175,17-03-2020,7,Metropolitana,Femenino,22,Hospital San juan de Dios,Santiago,-33.4430753,-70.6797152,Confirmado,-33.437,-70.657
+176,17-03-2020,7,Metropolitana,Masculino,39,Hospital San juan de Dios,Santiago,-33.4430753,-70.6797152,Confirmado,-33.437,-70.657
+177,17-03-2020,7,Metropolitana,Masculino,43,Clinica San Carlos de Apoquindo,Las Condes,-33.4003954,-70.5096496,Confirmado,-33.4,-70.503
+178,17-03-2020,7,Metropolitana,Masculino,35,Clínica Vespucio,La Florida,-33.51905,-70.5970545,Confirmado,-33.525,-70.538
+179,17-03-2020,7,Metropolitana,Femenino,16,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33.378,-70.562
+180,17-03-2020,7,Metropolitana,Femenino,50,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33.378,-70.562
+181,17-03-2020,7,Metropolitana,Masculino,56,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33.378,-70.562
+182,17-03-2020,7,Metropolitana,Masculino,49,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33.378,-70.562
+183,17-03-2020,7,Metropolitana,Masculino,28,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33.378,-70.562
+184,17-03-2020,7,Metropolitana,Femenino,34,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33.378,-70.562
+185,17-03-2020,7,Metropolitana,Masculino,73,Clínica Alemana,Vitacura,-33.3924402,-70.5730165,Confirmado,-33.378,-70.562
+186,17-03-2020,10,Ñuble,Femenino,33,Hospital de Chillán,Chillán,-36.6088176,-72.0921494,Confirmado,-36.601,-72.109
+187,17-03-2020,10,Ñuble,Femenino,29,Hospital de Chillán,Chillán,-36.6088176,-72.0921494,Confirmado,-36.601,-72.109
+188,17-03-2020,10,Ñuble,Masculino,43,Hospital de Chillán,Chillán,-36.6088176,-72.0921494,Confirmado,-36.601,-72.109
+189,17-03-2020,10,Ñuble,Femenino,27,Hospital de Chillán,Chillán,-36.6088176,-72.0921494,Confirmado,-36.601,-72.109
+190,17-03-2020,10,Ñuble,Femenino,37,Clínica de Chillán,Chillán,-36.6150947,-72.1075954,Confirmado,-36.601,-72.109
+191,17-03-2020,10,Ñuble,Masculino,40,Hospital de Chillán,Chillán,-36.6088176,-72.0921494,Confirmado,-36.601,-72.109
+192,17-03-2020,10,Ñuble,Femenino,27,Hospital de Chillán,Chillán,-36.6088176,-72.0921494,Confirmado,-36.601,-72.109
+193,17-03-2020,10,Ñuble,Masculino,36,Clínica de Chillán,Chillán,-36.6150947,-72.1075954,Confirmado,-36.601,-72.109
+194,17-03-2020,10,Ñuble,Femenino,30,Hospital de Chillán,Chillán,-36.6088176,-72.0921494,Confirmado,-36.601,-72.109
+195,17-03-2020,10,Ñuble,Femenino,26,Hospital de Chillán,Chillán,-36.6088176,-72.0921494,Confirmado,-36.601,-72.109
+196,17-03-2020,10,Ñuble,Masculino,29,Hospital de Chillán,Chillán,-36.6088176,-72.0921494,Confirmado,-36.601,-72.109
+197,17-03-2020,10,Ñuble,Masculino,32,Hospital de Chillán,Chillán,-36.6088176,-72.0921494,Confirmado,-36.601,-72.109
+198,17-03-2020,10,Ñuble,Masculino,48,Hospital de Chillán,Chillán,-36.6088176,-72.0921494,Confirmado,-36.601,-72.109
+199,17-03-2020,10,Ñuble,Femenino,31,Clínica de Chillán,Chillán,-36.6150947,-72.1075954,Confirmado,-36.601,-72.109
+200,17-03-2020,16,Magallanes,Masculino,70,Clínica Magallanes,Punta Arenas,-53.1372633,-70.8866272,Confirmado,-53.148,-70.907
+201,17-03-2020,16,Magallanes,Masculino,23,Hospital de Punta Arenas,Punta Arenas,-53.1224203,-70.8966561,Confirmado,-53.148,-70.907
 202,18-03-2020,7,Metropolitana,,,,,,,Confirmado,,
 203,18-03-2020,7,Metropolitana,,,,,,,Confirmado,,
 204,18-03-2020,7,Metropolitana,,,,,,,Confirmado,,
@@ -237,3 +237,524 @@ ID,Fecha,Region_Numero,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tipo_de_c
 236,18-03-2020,14,Los Lagos,,,,,,,Confirmado,,
 237,18-03-2020,14,Los Lagos,,,,,,,Confirmado,,
 238,18-03-2020,14,Los Lagos,,,,,,,Confirmado,,
+239,19-03-2020,1,Arica y Parinacota,,,,,,,Confirmado,,
+240,19-03-2020,5,Coquimbo,,,,,,,Confirmado,,
+241,19-03-2020,5,Coquimbo,,,,,,,Confirmado,,
+242,19-03-2020,6,Valparaíso,,,,,,,Confirmado,,
+243,19-03-2020,6,Valparaíso,,,,,,,Confirmado,,
+244,19-03-2020,6,Valparaíso,,,,,,,Confirmado,,
+245,19-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+246,19-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+247,19-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+248,19-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+249,19-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+250,19-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+251,19-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+252,19-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+253,19-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+254,19-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+255,19-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+256,19-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+257,19-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+258,19-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+259,19-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+260,19-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+261,19-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+262,19-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+263,19-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+264,19-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+265,19-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+266,19-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+267,19-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+268,19-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+269,19-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+270,19-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+271,19-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+272,19-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+273,19-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+274,19-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+275,19-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+276,19-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+277,19-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+278,19-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+279,19-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+280,19-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+281,19-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+282,19-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+283,19-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+284,19-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+285,19-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+286,19-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+287,19-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+288,19-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+289,19-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+290,19-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+291,19-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+292,19-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+293,19-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+294,19-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+295,19-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+296,19-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+297,19-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+298,19-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+299,19-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+300,19-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+301,19-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+302,19-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+303,19-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+304,19-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+305,19-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+306,19-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+307,19-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+308,19-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+309,19-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+310,19-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+311,19-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+312,19-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+313,19-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+314,19-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+315,19-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+316,19-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+317,19-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+318,19-03-2020,8,O’Higgins,,,,,,,Confirmado,,
+319,19-03-2020,8,O’Higgins,,,,,,,Confirmado,,
+320,19-03-2020,9,Maule,,,,,,,Confirmado,,
+321,19-03-2020,9,Maule,,,,,,,Confirmado,,
+322,19-03-2020,9,Maule,,,,,,,Confirmado,,
+323,19-03-2020,10,Ñuble,,,,,,,Confirmado,,
+324,19-03-2020,10,Ñuble,,,,,,,Confirmado,,
+325,19-03-2020,11,Biobío,,,,,,,Confirmado,,
+326,19-03-2020,11,Biobío,,,,,,,Confirmado,,
+327,19-03-2020,11,Biobío,,,,,,,Confirmado,,
+328,19-03-2020,11,Biobío,,,,,,,Confirmado,,
+329,19-03-2020,11,Biobío,,,,,,,Confirmado,,
+330,19-03-2020,11,Biobío,,,,,,,Confirmado,,
+331,19-03-2020,11,Biobío,,,,,,,Confirmado,,
+332,19-03-2020,12,Araucanía,,,,,,,Confirmado,,
+333,19-03-2020,12,Araucanía,,,,,,,Confirmado,,
+334,19-03-2020,12,Araucanía,,,,,,,Confirmado,,
+335,19-03-2020,14,Los Lagos,,,,,,,Confirmado,,
+336,19-03-2020,14,Los Lagos,,,,,,,Confirmado,,
+337,19-03-2020,14,Los Lagos,,,,,,,Confirmado,,
+338,19-03-2020,14,Los Lagos,,,,,,,Confirmado,,
+339,19-03-2020,14,Los Lagos,,,,,,,Confirmado,,
+340,19-03-2020,14,Los Lagos,,,,,,,Confirmado,,
+341,19-03-2020,14,Los Lagos,,,,,,,Confirmado,,
+342,19-03-2020,14,Los Lagos,,,,,,,Confirmado,,
+343,19-03-2020,,,,,,,,,Recuperado,,
+344,19-03-2020,,,,,,,,,Recuperado,,
+345,19-03-2020,,,,,,,,,Recuperado,,
+346,19-03-2020,,,,,,,,,Recuperado,,
+347,19-03-2020,,,,,,,,,Recuperado,,
+348,20-03-2020,3,Antofagasta,,,,,,,Confirmado,,
+349,20-03-2020,3,Antofagasta,,,,,,,Confirmado,,
+350,20-03-2020,3,Antofagasta,,,,,,,Confirmado,,
+351,20-03-2020,3,Antofagasta,,,,,,,Confirmado,,
+352,20-03-2020,5,Coquimbo,,,,,,,Confirmado,,
+353,20-03-2020,6,Valparaíso,,,,,,,Confirmado,,
+354,20-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+355,20-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+356,20-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+357,20-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+358,20-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+359,20-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+360,20-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+361,20-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+362,20-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+363,20-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+364,20-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+365,20-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+366,20-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+367,20-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+368,20-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+369,20-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+370,20-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+371,20-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+372,20-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+373,20-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+374,20-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+375,20-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+376,20-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+377,20-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+378,20-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+379,20-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+380,20-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+381,20-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+382,20-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+383,20-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+384,20-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+385,20-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+386,20-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+387,20-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+388,20-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+389,20-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+390,20-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+391,20-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+392,20-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+393,20-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+394,20-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+395,20-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+396,20-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+397,20-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+398,20-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+399,20-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+400,20-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+401,20-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+402,20-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+403,20-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+404,20-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+405,20-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+406,20-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+407,20-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+408,20-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+409,20-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+410,20-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+411,20-03-2020,8,O’Higgins,,,,,,,Confirmado,,
+412,20-03-2020,8,O’Higgins,,,,,,,Confirmado,,
+413,20-03-2020,8,O’Higgins,,,,,,,Confirmado,,
+414,20-03-2020,8,O’Higgins,,,,,,,Confirmado,,
+415,20-03-2020,10,Ñuble,,,,,,,Confirmado,,
+416,20-03-2020,10,Ñuble,,,,,,,Confirmado,,
+417,20-03-2020,10,Ñuble,,,,,,,Confirmado,,
+418,20-03-2020,10,Ñuble,,,,,,,Confirmado,,
+419,20-03-2020,10,Ñuble,,,,,,,Confirmado,,
+420,20-03-2020,10,Ñuble,,,,,,,Confirmado,,
+421,20-03-2020,10,Ñuble,,,,,,,Confirmado,,
+422,20-03-2020,10,Ñuble,,,,,,,Confirmado,,
+423,20-03-2020,10,Ñuble,,,,,,,Confirmado,,
+424,20-03-2020,10,Ñuble,,,,,,,Confirmado,,
+425,20-03-2020,10,Ñuble,,,,,,,Confirmado,,
+426,20-03-2020,10,Ñuble,,,,,,,Confirmado,,
+427,20-03-2020,10,Ñuble,,,,,,,Confirmado,,
+428,20-03-2020,10,Ñuble,,,,,,,Confirmado,,
+429,20-03-2020,10,Ñuble,,,,,,,Confirmado,,
+430,20-03-2020,10,Ñuble,,,,,,,Confirmado,,
+431,20-03-2020,11,Biobío,,,,,,,Confirmado,,
+432,20-03-2020,11,Biobío,,,,,,,Confirmado,,
+433,20-03-2020,11,Biobío,,,,,,,Confirmado,,
+434,20-03-2020,11,Biobío,,,,,,,Confirmado,,
+435,20-03-2020,11,Biobío,,,,,,,Confirmado,,
+436,20-03-2020,12,Araucanía,,,,,,,Confirmado,,
+437,20-03-2020,12,Araucanía,,,,,,,Confirmado,,
+438,20-03-2020,14,Los Lagos,,,,,,,Confirmado,,
+439,20-03-2020,14,Los Lagos,,,,,,,Confirmado,,
+440,20-03-2020,,,,,,,,,Recuperado,,
+441,21-03-2020,3,Antofagasta,,,,,,,Confirmado,,
+442,21-03-2020,3,Antofagasta,,,,,,,Confirmado,,
+443,21-03-2020,3,Antofagasta,,,,,,,Confirmado,,
+444,21-03-2020,3,Antofagasta,,,,,,,Confirmado,,
+445,21-03-2020,6,Valparaíso,,,,,,,Confirmado,,
+446,21-03-2020,6,Valparaíso,,,,,,,Confirmado,,
+447,21-03-2020,6,Valparaíso,,,,,,,Confirmado,,
+448,21-03-2020,6,Valparaíso,,,,,,,Confirmado,,
+449,21-03-2020,6,Valparaíso,,,,,,,Confirmado,,
+450,21-03-2020,6,Valparaíso,,,,,,,Confirmado,,
+451,21-03-2020,6,Valparaíso,,,,,,,Confirmado,,
+452,21-03-2020,6,Valparaíso,,,,,,,Confirmado,,
+453,21-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+454,21-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+455,21-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+456,21-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+457,21-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+458,21-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+459,21-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+460,21-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+461,21-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+462,21-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+463,21-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+464,21-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+465,21-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+466,21-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+467,21-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+468,21-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+469,21-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+470,21-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+471,21-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+472,21-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+473,21-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+474,21-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+475,21-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+476,21-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+477,21-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+478,21-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+479,21-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+480,21-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+481,21-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+482,21-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+483,21-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+484,21-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+485,21-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+486,21-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+487,21-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+488,21-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+489,21-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+490,21-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+491,21-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+492,21-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+493,21-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+494,21-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+495,21-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+496,21-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+497,21-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+498,21-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+499,21-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+500,21-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+501,21-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+502,21-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+503,21-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+504,21-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+505,21-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+506,21-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+507,21-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+508,21-03-2020,8,O’Higgins,,,,,,,Confirmado,,
+509,21-03-2020,9,Maule,,,,,,,Confirmado,,
+510,21-03-2020,10,Ñuble,,,,,,,Confirmado,,
+511,21-03-2020,10,Ñuble,,,,,,,Confirmado,,
+512,21-03-2020,10,Ñuble,,,,,,,Confirmado,,
+513,21-03-2020,10,Ñuble,,,,,,,Confirmado,,
+514,21-03-2020,10,Ñuble,,,,,,,Confirmado,,
+515,21-03-2020,10,Ñuble,,,,,,,Confirmado,,
+516,21-03-2020,10,Ñuble,,,,,,,Confirmado,,
+517,21-03-2020,10,Ñuble,,,,,,,Confirmado,,
+518,21-03-2020,10,Ñuble,,,,,,,Confirmado,,
+519,21-03-2020,10,Ñuble,,,,,,,Confirmado,,
+520,21-03-2020,10,Ñuble,,,,,,,Confirmado,,
+521,21-03-2020,10,Ñuble,,,,,,,Confirmado,,
+522,21-03-2020,10,Ñuble,,,,,,,Confirmado,,
+523,21-03-2020,10,Ñuble,,,,,,,Confirmado,,
+524,21-03-2020,11,Biobío,,,,,,,Confirmado,,
+525,21-03-2020,11,Biobío,,,,,,,Confirmado,,
+526,21-03-2020,11,Biobío,,,,,,,Confirmado,,
+527,21-03-2020,11,Biobío,,,,,,,Confirmado,,
+528,21-03-2020,11,Biobío,,,,,,,Confirmado,,
+529,21-03-2020,11,Biobío,,,,,,,Confirmado,,
+530,21-03-2020,11,Biobío,,,,,,,Confirmado,,
+531,21-03-2020,11,Biobío,,,,,,,Confirmado,,
+532,21-03-2020,11,Biobío,,,,,,,Confirmado,,
+533,21-03-2020,11,Biobío,,,,,,,Confirmado,,
+534,21-03-2020,11,Biobío,,,,,,,Confirmado,,
+535,21-03-2020,12,Araucanía,,,,,,,Confirmado,,
+536,21-03-2020,12,Araucanía,,,,,,,Confirmado,,
+537,21-03-2020,12,Araucanía,,,,,,,Confirmado,,
+538,21-03-2020,12,Araucanía,,,,,,,Confirmado,,
+539,21-03-2020,12,Araucanía,,,,,,,Confirmado,,
+540,21-03-2020,12,Araucanía,,,,,,,Confirmado,,
+541,21-03-2020,14,Los Lagos,,,,,,,Confirmado,,
+542,21-03-2020,14,Los Lagos,,,,,,,Confirmado,,
+543,21-03-2020,16,Magallanes,,,,,,,Confirmado,,
+544,21-03-2020,,,,,,,,,Recuperado,,
+545,21-03-2020,,,,,,,,,Recuperado,,
+546,21-03-2020,7,Metropolitana,Femenino,82,,Renca,,,Muerte,-33.398,-70.723
+547,22-03-2020,1,Arica y Parinacota,,,,,,,Confirmado,,
+548,22-03-2020,3,Antofagasta,,,,,,,Confirmado,,
+549,22-03-2020,5,Coquimbo,,,,,,,Confirmado,,
+550,22-03-2020,5,Coquimbo,,,,,,,Confirmado,,
+551,22-03-2020,6,Valparaíso,,,,,,,Confirmado,,
+552,22-03-2020,6,Valparaíso,,,,,,,Confirmado,,
+553,22-03-2020,6,Valparaíso,,,,,,,Confirmado,,
+554,22-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+555,22-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+556,22-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+557,22-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+558,22-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+559,22-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+560,22-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+561,22-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+562,22-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+563,22-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+564,22-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+565,22-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+566,22-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+567,22-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+568,22-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+569,22-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+570,22-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+571,22-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+572,22-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+573,22-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+574,22-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+575,22-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+576,22-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+577,22-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+578,22-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+579,22-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+580,22-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+581,22-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+582,22-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+583,22-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+584,22-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+585,22-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+586,22-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+587,22-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+588,22-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+589,22-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+590,22-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+591,22-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+592,22-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+593,22-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+594,22-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+595,22-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+596,22-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+597,22-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+598,22-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+599,22-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+600,22-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+601,22-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+602,22-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+603,22-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+604,22-03-2020,8,O’Higgins,,,,,,,Confirmado,,
+605,22-03-2020,9,Maule,,,,,,,Confirmado,,
+606,22-03-2020,9,Maule,,,,,,,Confirmado,,
+607,22-03-2020,9,Maule,,,,,,,Confirmado,,
+608,22-03-2020,9,Maule,,,,,,,Confirmado,,
+609,22-03-2020,9,Maule,,,,,,,Confirmado,,
+610,22-03-2020,9,Maule,,,,,,,Confirmado,,
+611,22-03-2020,9,Maule,,,,,,,Confirmado,,
+612,22-03-2020,9,Maule,,,,,,,Confirmado,,
+613,22-03-2020,9,Maule,,,,,,,Confirmado,,
+614,22-03-2020,9,Maule,,,,,,,Confirmado,,
+615,22-03-2020,10,Ñuble,,,,,,,Confirmado,,
+616,22-03-2020,10,Ñuble,,,,,,,Confirmado,,
+617,22-03-2020,10,Ñuble,,,,,,,Confirmado,,
+618,22-03-2020,10,Ñuble,,,,,,,Confirmado,,
+619,22-03-2020,10,Ñuble,,,,,,,Confirmado,,
+620,22-03-2020,10,Ñuble,,,,,,,Confirmado,,
+621,22-03-2020,11,Biobío,,,,,,,Confirmado,,
+622,22-03-2020,11,Biobío,,,,,,,Confirmado,,
+623,22-03-2020,11,Biobío,,,,,,,Confirmado,,
+624,22-03-2020,11,Biobío,,,,,,,Confirmado,,
+625,22-03-2020,11,Biobío,,,,,,,Confirmado,,
+626,22-03-2020,12,Araucanía,,,,,,,Confirmado,,
+627,22-03-2020,12,Araucanía,,,,,,,Confirmado,,
+628,22-03-2020,12,Araucanía,,,,,,,Confirmado,,
+629,22-03-2020,12,Araucanía,,,,,,,Confirmado,,
+630,22-03-2020,12,Araucanía,,,,,,,Confirmado,,
+631,22-03-2020,12,Araucanía,,,,,,,Confirmado,,
+632,22-03-2020,12,Araucanía,,,,,,,Confirmado,,
+633,22-03-2020,12,Araucanía,,,,,,,Confirmado,,
+634,22-03-2020,12,Araucanía,,,,,,,Confirmado,,
+635,22-03-2020,12,Araucanía,,,,,,,Confirmado,,
+636,22-03-2020,12,Araucanía,,,,,,,Confirmado,,
+637,22-03-2020,12,Araucanía,,,,,,,Confirmado,,
+638,22-03-2020,14,Los Lagos,,,,,,,Confirmado,,
+639,22-03-2020,14,Los Lagos,,,,,,,Confirmado,,
+640,22-03-2020,14,Los Lagos,,,,,,,Confirmado,,
+641,22-03-2020,16,Magallanes,,,,,,,Confirmado,,
+642,23-03-2020,2,Tarapacá,,,,,,,Confirmado,,
+643,23-03-2020,5,Coquimbo,,,,,,,Confirmado,,
+644,23-03-2020,6,Valparaíso,,,,,,,Confirmado,,
+645,23-03-2020,6,Valparaíso,,,,,,,Confirmado,,
+646,23-03-2020,6,Valparaíso,,,,,,,Confirmado,,
+647,23-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+648,23-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+649,23-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+650,23-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+651,23-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+652,23-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+653,23-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+654,23-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+655,23-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+656,23-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+657,23-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+658,23-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+659,23-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+660,23-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+661,23-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+662,23-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+663,23-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+664,23-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+665,23-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+666,23-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+667,23-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+668,23-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+669,23-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+670,23-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+671,23-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+672,23-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+673,23-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+674,23-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+675,23-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+676,23-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+677,23-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+678,23-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+679,23-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+680,23-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+681,23-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+682,23-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+683,23-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+684,23-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+685,23-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+686,23-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+687,23-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+688,23-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+689,23-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+690,23-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+691,23-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+692,23-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+693,23-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+694,23-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+695,23-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+696,23-03-2020,7,Metropolitana,,,,,,,Confirmado,,
+697,23-03-2020,9,Maule,,,,,,,Confirmado,,
+698,23-03-2020,9,Maule,,,,,,,Confirmado,,
+699,23-03-2020,9,Maule,,,,,,,Confirmado,,
+700,23-03-2020,10,Ñuble,,,,,,,Confirmado,,
+701,23-03-2020,10,Ñuble,,,,,,,Confirmado,,
+702,23-03-2020,10,Ñuble,,,,,,,Confirmado,,
+703,23-03-2020,10,Ñuble,,,,,,,Confirmado,,
+704,23-03-2020,10,Ñuble,,,,,,,Confirmado,,
+705,23-03-2020,10,Ñuble,,,,,,,Confirmado,,
+706,23-03-2020,10,Ñuble,,,,,,,Confirmado,,
+707,23-03-2020,10,Ñuble,,,,,,,Confirmado,,
+708,23-03-2020,10,Ñuble,,,,,,,Confirmado,,
+709,23-03-2020,10,Ñuble,,,,,,,Confirmado,,
+710,23-03-2020,10,Ñuble,,,,,,,Confirmado,,
+711,23-03-2020,10,Ñuble,,,,,,,Confirmado,,
+712,23-03-2020,10,Ñuble,,,,,,,Confirmado,,
+713,23-03-2020,10,Ñuble,,,,,,,Confirmado,,
+714,23-03-2020,10,Ñuble,,,,,,,Confirmado,,
+715,23-03-2020,10,Ñuble,,,,,,,Confirmado,,
+716,23-03-2020,10,Ñuble,,,,,,,Confirmado,,
+717,23-03-2020,11,Biobío,,,,,,,Confirmado,,
+718,23-03-2020,11,Biobío,,,,,,,Confirmado,,
+719,23-03-2020,11,Biobío,,,,,,,Confirmado,,
+720,23-03-2020,11,Biobío,,,,,,,Confirmado,,
+721,23-03-2020,11,Biobío,,,,,,,Confirmado,,
+722,23-03-2020,11,Biobío,,,,,,,Confirmado,,
+723,23-03-2020,11,Biobío,,,,,,,Confirmado,,
+724,23-03-2020,11,Biobío,,,,,,,Confirmado,,
+725,23-03-2020,11,Biobío,,,,,,,Confirmado,,
+726,23-03-2020,11,Biobío,,,,,,,Confirmado,,
+727,23-03-2020,11,Biobío,,,,,,,Confirmado,,
+728,23-03-2020,12,Araucanía,,,,,,,Confirmado,,
+729,23-03-2020,12,Araucanía,,,,,,,Confirmado,,
+730,23-03-2020,12,Araucanía,,,,,,,Confirmado,,
+731,23-03-2020,12,Araucanía,,,,,,,Confirmado,,
+732,23-03-2020,12,Araucanía,,,,,,,Confirmado,,
+733,23-03-2020,12,Araucanía,,,,,,,Confirmado,,
+734,23-03-2020,12,Araucanía,,,,,,,Confirmado,,
+735,23-03-2020,12,Araucanía,,,,,,,Confirmado,,
+736,23-03-2020,12,Araucanía,,,,,,,Confirmado,,
+737,23-03-2020,12,Araucanía,,,,,,,Confirmado,,
+738,23-03-2020,12,Araucanía,,,,,,,Confirmado,,
+739,23-03-2020,12,Araucanía,,,,,,,Confirmado,,
+740,23-03-2020,12,Araucanía,,,,,,,Confirmado,,
+741,23-03-2020,13,Los Ríos,,,,,,,Confirmado,,
+742,23-03-2020,13,Los Ríos,,,,,,,Confirmado,,
+743,23-03-2020,13,Los Ríos,,,,,,,Confirmado,,
+744,23-03-2020,14,Los Lagos,,,,,,,Confirmado,,
+745,23-03-2020,14,Los Lagos,,,,,,,Confirmado,,
+746,23-03-2020,14,Los Lagos,,,,,,,Confirmado,,
+747,23-03-2020,14,Los Lagos,,,,,,,Confirmado,,
+748,23-03-2020,14,Los Lagos,,,,,,,Confirmado,,
+749,23-03-2020,14,Los Lagos,,,,,,,Confirmado,,
+750,23-03-2020,14,Los Lagos,,,,,,,Confirmado,,
+751,23-03-2020,14,Los Lagos,,,,,,,Confirmado,,
+752,23-03-2020,14,Los Lagos,,,,,,,Confirmado,,
+753,23-03-2020,14,Los Lagos,,,,,,,Confirmado,,
+754,23-03-2020,16,Magallanes,,,,,,,Confirmado,,
+755,23-03-2020,16,Magallanes,,,,,,,Confirmado,,
+756,23-03-2020,,,,,,,,,Recuperado,,
+757,23-03-2020,,,,,,,,,Recuperado,,
+758,23-03-2020,,,,,,,,,Recuperado,,
+759,23-03-2020,7,Metropolitana,Femenino,78,,Maipú,,,,-33.49,-70.788
